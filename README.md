@@ -1,5 +1,5 @@
 # Runesmith
-hh
+
 **Runesmith** is a character map application that allows you to browse and copy Unicode characters. It is similar to [gucharmap](https://wiki.gnome.org/Apps/Gucharmap).
 
 ![Screenshot](screenshot.png)
